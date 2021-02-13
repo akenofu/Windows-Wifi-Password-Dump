@@ -6,4 +6,4 @@ Build Dependencies: Windows 10 SDK
 Note: Edge might block the download. Although, Windows Defender says it is clean. Found that funny :)
 
 Feel free to use the pre built version in the releases section. <br />
-https://github.com/akenofu/Windows-Wifi-Password-Dump/releases/download/0.1/WifiPasswordDump.exe
+https://github.com/akenofu/Sharp-Wifi-Password-Dump/releases/download/0.1/SharpWifiPasswordDump.exe
